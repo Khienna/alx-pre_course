@@ -1,2 +1,2 @@
 My first readme
-Cool
+That's cool
