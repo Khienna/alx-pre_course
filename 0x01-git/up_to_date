@@ -1,4 +1,4 @@
 git checkout
-git pulnch
+git branch
 git pull
-git checkout
+git merge
